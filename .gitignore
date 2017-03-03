@@ -1,0 +1,29 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Obj/
+UnityGenerated/
+Library/
+Assets/AssetStoreTools*
+
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.boopro
+
+# ============ #
+# Vision Files #
+# ============ #
+1- Copy the source code of your project here.txt
+2- Include all assets, sounds and textures of your team.txt
